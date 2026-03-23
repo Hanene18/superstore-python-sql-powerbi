@@ -1,3 +1,9 @@
+# Superstore Sales Analysis
+Analyse complète des ventes Superstore avec Python, SQL et création de dashboard Power BI.
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![SQL](https://img.shields.io/badge/SQL-SQLServer-green)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+
 This project focuses on cleaning and exploring the Superstore dataset using Python.
 The goal is to prepare the data for further analysis in SQL Server and visualization in Power BI.
 
